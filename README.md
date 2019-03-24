@@ -1,4 +1,4 @@
-# SCRAPE_API_AND_SENTIMENT
+# Scraping Reviews and Classifying them using a Web API
 
 In this project, I scraped reviews from the [Consumer Affairs](https://www.consumeraffairs.com/) website, then sent the text to a web API to get a classification of each review (either positive, negative or neutral).
 
